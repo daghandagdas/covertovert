@@ -6,8 +6,10 @@
 Basic ICMP Documentation
 ========================
 
-Umut Dağhan DAĞDAŞ 2521441, 
-Fevzi Fırat TATAR 2522001, 
+Umut Dağhan DAĞDAŞ 2521441 
+
+Fevzi Fırat TATAR 2522001
+
 Group 9 
 
 
