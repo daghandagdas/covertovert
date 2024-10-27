@@ -1,3 +1,12 @@
-import scapy
+from scapy.all import *
 
-# Implement your ICMP sender here
+def send_icmp():
+    target = "receiver"
+    source = "sender"
+
+    packet = IP(src=source, dst=target, ttl=1) / ICMP()
+
+    send(packet)
+
+if __name__ == "__main__":
+    send_icmp()

@@ -1,2 +1,4 @@
-# Coding
-You can develop your code in sender and receiver folders. Be careful entire folder is mounted to the `/app` folder in both containers.
+Umut Dağhan DAĞDAŞ 2521441
+Fevzi Fırat TATAR  2522001
+Group 9
+https://github.com/daghandagdas/covertovert

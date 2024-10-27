@@ -6,7 +6,9 @@
 Basic ICMP Documentation
 ========================
 
-Please add your names and group ID here by editing `index.rst` in the docs folder.
+Umut Dağhan DAĞDAŞ 2521441, 
+Fevzi Fırat TATAR 2522001, 
+Group 9 
 
 
 .. toctree::
